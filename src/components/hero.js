@@ -3,7 +3,6 @@ import styled from 'styled-components'
 import media from 'utils/media-queries'
 
 import Header from 'components/header'
-import Spirograph from 'components/spirograph'
 
 const HeroSection = styled.section`
   height: 100vh;
@@ -51,7 +50,6 @@ class Hero extends React.Component {
   render() {
     return (
       <HeroSection>
-        <Spirograph speed={0.012} getGearValues={this.getGearValues} />
         <Header />
         <Spacer />
         {/* <GearValues>

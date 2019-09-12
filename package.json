@@ -5,19 +5,20 @@
   "author": "Kyle Mathews <mathews.kyle@gmail.com>",
   "dependencies": {
     "babel-plugin-styled-components": "^1.10.0",
-    "gatsby": "^2.4.2",
-    "gatsby-link": "^2.1.1",
+    "gatsby": "^2.15.14",
+    "gatsby-link": "^2.2.1",
     "gatsby-plugin-google-analytics": "^2.0.19",
     "gatsby-plugin-react-helmet": "^3.0.12",
     "gatsby-plugin-styled-components": "^3.0.7",
     "lodash": "^4.17.4",
-    "react": "^16.8.6",
+    "react": "^16.9.0",
     "react-anchor-link-smooth-scroll": "^1.0.12",
     "react-dom": "^16.8.6",
     "react-helmet": "^5.2.1",
     "react-waypoint": "^9.0.2",
     "styled-components": "^4.2.0",
-    "styled-normalize": "^8.0.6"
+    "styled-normalize": "^8.0.6",
+    "yarn": "^1.17.3"
   },
   "keywords": [
     "gatsby"
